@@ -1,15 +1,14 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: { K-Fly's Web Dev Blog }
+author: Kaitlyn Flynn
+email: kaitlynflynn@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-
+  Thank you for showing interest in my blog! I plan to document 
+  my journey on becoming a Web Developer here so please check
+  back regularly for the latest updates.
+  
 # social links
-twitter_username: your-twitter-handle
-github_username:  your-github-handle
+github_username:  https://github.com/kaitlynflynn
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
-theme: jekyll-theme-cayman
+theme: minima
